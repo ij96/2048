@@ -1,2 +1,2 @@
-# 2048
-Command-line 2048 game
+# 2048 for CUI
+Command-line 2048 game. Modified from year 1 coursework.
